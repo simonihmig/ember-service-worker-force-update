@@ -1,0 +1,23 @@
+{
+  "name": "ember-service-worker-force-update",
+  "version": "0.1.0",
+  "description": "Force update of service worker on every new build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonihmig/ember-service-worker-force-update.git"
+  },
+  "keywords": [
+    "ember-addon",
+    "ember-service-worker-plugin"
+  ],
+  "author": "Simon Ihmig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonihmig/ember-service-worker-force-update/issues"
+  },
+  "homepage": "https://github.com/simonihmig/ember-service-worker-force-update#readme"
+}
